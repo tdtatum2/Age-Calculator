@@ -103,9 +103,7 @@ p, h1, h2, h3, h4, h5, h6 {
             -webkit-appearance: none;
             margin: 0;
         }
-        &[type=number] {
-            -moz-appearance: textfield;
-        }
+        
 
         @media screen and (max-width: 350px) {
             width: 60px;
