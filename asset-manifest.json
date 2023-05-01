@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Age-calculator/static/css/main.f22ced1e.css",
+    "main.css": "/Age-calculator/static/css/main.db7b1629.css",
     "main.js": "/Age-calculator/static/js/main.82a78ad7.js",
     "index.html": "/Age-calculator/index.html",
     "static/media/icon-arrow.svg": "/Age-calculator/static/media/icon-arrow.a00f727f82b68484e269abad0706a23f.svg",
-    "main.f22ced1e.css.map": "/Age-calculator/static/css/main.f22ced1e.css.map",
+    "main.db7b1629.css.map": "/Age-calculator/static/css/main.db7b1629.css.map",
     "main.82a78ad7.js.map": "/Age-calculator/static/js/main.82a78ad7.js.map"
   },
   "entrypoints": [
-    "static/css/main.f22ced1e.css",
+    "static/css/main.db7b1629.css",
     "static/js/main.82a78ad7.js"
   ]
 }
